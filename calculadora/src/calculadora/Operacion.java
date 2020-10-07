@@ -11,7 +11,7 @@ public class Operacion {
 	private double n1 = 0;
 	private double n2 = 0;
 	private char op; 
-
+ 
 	
 	public Operacion(double n1, double n2, char op) {
 		
